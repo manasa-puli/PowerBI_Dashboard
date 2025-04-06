@@ -5,15 +5,26 @@
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 
 ## Project Overview
-Welcome to the GitHub repository of the Amazon Prime Video Content Analytics with Power BI Dashboard. The dashboard highlights the total number of titles, ratings, genres, and directors, which are 9655, 25, 519, and 5771 respectively. It includes a bar chart of ratings by total shows categorized by age suitability, a bar chart of genres by total shows, a world map depicting the total shows by country, a donut chart comparing the proportion of movies to TV shows, and a line graph showing the total number of shows by release year. This dashboard illustrates the expansive and diverse content available on Prime Video, with a significant growth in the number of shows in recent years, a strong preference for movies over TV shows, and a variety of genres with drama being the most prevalent. The age rating distribution suggests a focus on content suitable for viewers aged 13 and above.
+This repository showcases an interactive Power BI dashboard that provides deep insights into Amazon Prime Video's content library. The dashboard presents key metrics and visualizations to help understand trends across titles, genres, age ratings, release years, and global distribution.
+
+With **9,655 titles , 25 ratings, 519 genres, and 5,771 directors**, the dashboard highlights the scale and diversity of Prime Video’s offerings. Visuals include:
+**Bar Chart**: Distribution of content by age suitability and rating
+**Genre Analysis**: Most popular genres with drama leading the chart
+**World Map**: Geographic distribution of shows by country
+**Donut Chart**: Comparison of Movies vs TV Shows
+**Line Graph**: Trends in content release over the years
+
+These insights reveal a growing content library with a strong preference for movies, a focus on age-13+ suitable content, and a wide variety of genres.
+
 
 ## Features
-- **Total Content Metrics**: Overview of titles, genres, directors, and ratings.
-- **Age Suitability Analysis**: Bar chart categorizing shows by viewer age group.
-- **Genre Trends**: Visualization of genre popularity with a focus on top categories.
-- **Global Content Distribution**: World map view of Prime Video's shows by country.
-- **Format Comparison**: Donut chart detailing the proportion of movies vs. TV shows.
-- **Release Patterns**: Line graph tracking the increase in content over the years.
+- **Content Overview**: Total titles, ratings, genres, and directors.
+- **Age Suitability Analysis**:Viewer age categorization for all content.
+- **Genre Popularity**: Breakdown of content by genre.
+- **Global Reach**: Shows by country visualized on a map.
+- **Content Format**: Ratio of movies vs TV shows
+- **Release Trends**: Year-wise content growth analysis
+  
 
 ## How to Use
 To get started:
