@@ -40,4 +40,4 @@ Don't forget to give the project a star! Thanks again!
 
 ## Overview of Dashboard
 
-![Amazon Prime Dataset_Visualisation]
+![Amazon Prime Dataset_Visualisation](Amazon Prime Dataset_Visualisation.png)
