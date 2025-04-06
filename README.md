@@ -40,4 +40,4 @@ Don't forget to give the project a star! Thanks again!
 
 ## Overview of Dashboard
 
-![Amazon Prime Dataset_Visualisation](Amazon Prime Dataset_Visualisation.png)
+![Amazon Prime Dataset_Visualisation](https://github.com/manasa-puli/PowerBI_Dashboard/blob/6cb57ac2bcebf1b6696f4bdc90d4f4805befa136/Amazon%20Prime%20Dataset_Visualisation.png)
