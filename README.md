@@ -1,8 +1,6 @@
 # PowerBI_Dashboard
 <h1 align="center">Amazon Prime Video PowerBI Dashboard </h1>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 
 ## Project Overview
 This repository showcases an interactive Power BI dashboard that provides deep insights into Amazon Prime Video's content library. The dashboard presents key metrics and visualizations to help understand trends across titles, genres, age ratings, release years, and global distribution.
